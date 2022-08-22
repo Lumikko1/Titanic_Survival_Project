@@ -1,4 +1,4 @@
-# Titanic_Suvival_Project
+# Titanic_Survival_Project
 Titanic Survival prediction project for Kaggle starter competition.
 
 This projet contains notebook and data for Kaggle competition: https://www.kaggle.com/competitions/titanic/overview
